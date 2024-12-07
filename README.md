@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wgJFnpzUXIhXeQBrVSeVbw.jpeg)
 <h1 align="center">Hi 👋, I'm Elnur Namaz</h1>
-<h3 align="center">A passionate React Native developer from Azerbaijan</h3>
+<h3 align="center">A passionate Mobile developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
